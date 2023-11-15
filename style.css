@@ -94,7 +94,7 @@ body {
 .footer {
   background: #373333;
 
-  height: 520px;
+  height: 500px;
 
   margin-top: 50px;
 
@@ -306,7 +306,7 @@ body {
     border-radius: 10px;
   }
   .footer {
-    height: 740px;
+    height: 820px;
   }
   .footer__title {
     font-size: 32px;
